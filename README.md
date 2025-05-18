@@ -26,7 +26,8 @@ Familiar with `React`, `Node.js`, `Docker`, and `Bash scripting`
 ## 📫 Let’s Connect
 
 Feel free to reach out or follow my work here on GitHub.  
-You can also connect on [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/hicham-b-2b033820a/))
+You can also connect on [LinkedIn](https://www.linkedin.com/in/hicham-b-2b033820a/)
+
 
 ---
 
